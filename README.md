@@ -23,11 +23,9 @@ Download executable package from <https://github.com/vbsw/sa3k/archive/master.zi
 
 ## Screenshots
 
-<img src="./res/image/screenshots/screenshot01.png" alt="Screenshot Menu">
-
-<img src="./res/image/screenshots/screenshot02.png" alt="Screenshot Introduction">
-
-<img src="./res/image/screenshots/screenshot03.png" alt="Screenshot Gameplay"> 
+![Menu](res/image/screenshots/screenshot1.png)
+![Introduction](res/image/screenshots/screenshot2.png)
+![Gameplay](res/image/screenshots/screenshot3.png)
 
 ## Copyright
 See file COPYRIGHT.
