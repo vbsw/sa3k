@@ -1,13 +1,11 @@
 # Space Action 3000
 
 ## About
-Space Action 3000 is a shoot 'em up game, programmed in Java using JavaFX. Space Action 3000 is published on <https://github.com/vbsw/sa3k>.
+Space Action 3000 is a shoot 'em up game, programmed in Java using JavaFX.
 
-## Copyright
-Read file COPYRIGHT for copying conditions.
+Space Action 3000 is published on <https://github.com/vbsw/sa3k>.
 
-## Download
-- <https://github.com/vbsw/sa3k/archive/master.zip>
+Download executable package from <https://github.com/vbsw/sa3k/archive/master.zip>. 
 
 ## Game Controls
 	move up                      arrow up / i
@@ -22,6 +20,17 @@ Read file COPYRIGHT for copying conditions.
 
 	full screen                  f11
 	window mode                  esc
+
+## Screenshots
+
+<img src="res/image/screenshots/screenshot01.png" alt="Screenshot Menu">
+
+<img src="res/image/screenshots/screenshot02.png" alt="Screenshot Introduction">
+
+<img src="res/image/screenshots/screenshot03.png" alt="Screenshot Gameplay"> 
+
+## Copyright
+See file COPYRIGHT.
 
 ## Old Project Page
 - <https://sourceforge.net/projects/spaceaction3000>
