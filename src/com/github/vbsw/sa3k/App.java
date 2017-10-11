@@ -1,9 +1,9 @@
-
-//          Copyright 2013, 2017, Vitali Baumtrok.
-// Distributed under the Boost Software License, Version 1.0.
-//      (See accompanying file BSLv1.LICENSE or copy at
-//        http://www.boost.org/LICENSE_1_0.txt)
-
+/*
+ *   Copyright 2013, 2017 Vitali Baumtrok <vbsw@mailbox.org>
+ * Distributed under the Boost Software License, Version 1.0.
+ *   (See accompanying file LICENSES/BSL-1.0.txt or copy at
+ *        http://www.boost.org/LICENSE_1_0.txt)
+ */
 
 package com.github.vbsw.sa3k;
 

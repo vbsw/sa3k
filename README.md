@@ -30,5 +30,8 @@ Space Action 3000 is published on <https://github.com/vbsw/sa3k>.
 ## Copyright
 See file COPYRIGHT.
 
-## Old Project Page
+## References
 - <https://sourceforge.net/projects/spaceaction3000>
+- <https://reuse.software/>
+- <https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/>
+- <https://spdx.org/licenses/>
